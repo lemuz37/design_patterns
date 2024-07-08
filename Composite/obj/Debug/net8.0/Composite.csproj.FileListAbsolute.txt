@@ -1,0 +1,14 @@
+E:\git\design_patterns\Composite\bin\Debug\net8.0\Composite.exe
+E:\git\design_patterns\Composite\bin\Debug\net8.0\Composite.deps.json
+E:\git\design_patterns\Composite\bin\Debug\net8.0\Composite.runtimeconfig.json
+E:\git\design_patterns\Composite\bin\Debug\net8.0\Composite.dll
+E:\git\design_patterns\Composite\bin\Debug\net8.0\Composite.pdb
+E:\git\design_patterns\Composite\obj\Debug\net8.0\Composite.GeneratedMSBuildEditorConfig.editorconfig
+E:\git\design_patterns\Composite\obj\Debug\net8.0\Composite.AssemblyInfoInputs.cache
+E:\git\design_patterns\Composite\obj\Debug\net8.0\Composite.AssemblyInfo.cs
+E:\git\design_patterns\Composite\obj\Debug\net8.0\Composite.csproj.CoreCompileInputs.cache
+E:\git\design_patterns\Composite\obj\Debug\net8.0\Composite.dll
+E:\git\design_patterns\Composite\obj\Debug\net8.0\refint\Composite.dll
+E:\git\design_patterns\Composite\obj\Debug\net8.0\Composite.pdb
+E:\git\design_patterns\Composite\obj\Debug\net8.0\Composite.genruntimeconfig.cache
+E:\git\design_patterns\Composite\obj\Debug\net8.0\ref\Composite.dll

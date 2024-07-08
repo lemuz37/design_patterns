@@ -1,0 +1,14 @@
+E:\git\design_patterns\Iterator\bin\Debug\net8.0\Iterator.exe
+E:\git\design_patterns\Iterator\bin\Debug\net8.0\Iterator.deps.json
+E:\git\design_patterns\Iterator\bin\Debug\net8.0\Iterator.runtimeconfig.json
+E:\git\design_patterns\Iterator\bin\Debug\net8.0\Iterator.dll
+E:\git\design_patterns\Iterator\bin\Debug\net8.0\Iterator.pdb
+E:\git\design_patterns\Iterator\obj\Debug\net8.0\Iterator.GeneratedMSBuildEditorConfig.editorconfig
+E:\git\design_patterns\Iterator\obj\Debug\net8.0\Iterator.AssemblyInfoInputs.cache
+E:\git\design_patterns\Iterator\obj\Debug\net8.0\Iterator.AssemblyInfo.cs
+E:\git\design_patterns\Iterator\obj\Debug\net8.0\Iterator.csproj.CoreCompileInputs.cache
+E:\git\design_patterns\Iterator\obj\Debug\net8.0\Iterator.dll
+E:\git\design_patterns\Iterator\obj\Debug\net8.0\refint\Iterator.dll
+E:\git\design_patterns\Iterator\obj\Debug\net8.0\Iterator.pdb
+E:\git\design_patterns\Iterator\obj\Debug\net8.0\Iterator.genruntimeconfig.cache
+E:\git\design_patterns\Iterator\obj\Debug\net8.0\ref\Iterator.dll

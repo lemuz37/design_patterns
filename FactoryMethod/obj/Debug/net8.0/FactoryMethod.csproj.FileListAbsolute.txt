@@ -1,0 +1,14 @@
+E:\git\design_patterns\FactoryMethod\bin\Debug\net8.0\FactoryMethod.exe
+E:\git\design_patterns\FactoryMethod\bin\Debug\net8.0\FactoryMethod.deps.json
+E:\git\design_patterns\FactoryMethod\bin\Debug\net8.0\FactoryMethod.runtimeconfig.json
+E:\git\design_patterns\FactoryMethod\bin\Debug\net8.0\FactoryMethod.dll
+E:\git\design_patterns\FactoryMethod\bin\Debug\net8.0\FactoryMethod.pdb
+E:\git\design_patterns\FactoryMethod\obj\Debug\net8.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\git\design_patterns\FactoryMethod\obj\Debug\net8.0\FactoryMethod.AssemblyInfoInputs.cache
+E:\git\design_patterns\FactoryMethod\obj\Debug\net8.0\FactoryMethod.AssemblyInfo.cs
+E:\git\design_patterns\FactoryMethod\obj\Debug\net8.0\FactoryMethod.csproj.CoreCompileInputs.cache
+E:\git\design_patterns\FactoryMethod\obj\Debug\net8.0\FactoryMethod.dll
+E:\git\design_patterns\FactoryMethod\obj\Debug\net8.0\refint\FactoryMethod.dll
+E:\git\design_patterns\FactoryMethod\obj\Debug\net8.0\FactoryMethod.pdb
+E:\git\design_patterns\FactoryMethod\obj\Debug\net8.0\FactoryMethod.genruntimeconfig.cache
+E:\git\design_patterns\FactoryMethod\obj\Debug\net8.0\ref\FactoryMethod.dll

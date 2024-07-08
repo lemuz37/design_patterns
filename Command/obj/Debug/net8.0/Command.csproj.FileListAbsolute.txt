@@ -1,0 +1,14 @@
+E:\git\design_patterns\Command\bin\Debug\net8.0\Command.exe
+E:\git\design_patterns\Command\bin\Debug\net8.0\Command.deps.json
+E:\git\design_patterns\Command\bin\Debug\net8.0\Command.runtimeconfig.json
+E:\git\design_patterns\Command\bin\Debug\net8.0\Command.dll
+E:\git\design_patterns\Command\bin\Debug\net8.0\Command.pdb
+E:\git\design_patterns\Command\obj\Debug\net8.0\Command.GeneratedMSBuildEditorConfig.editorconfig
+E:\git\design_patterns\Command\obj\Debug\net8.0\Command.AssemblyInfoInputs.cache
+E:\git\design_patterns\Command\obj\Debug\net8.0\Command.AssemblyInfo.cs
+E:\git\design_patterns\Command\obj\Debug\net8.0\Command.csproj.CoreCompileInputs.cache
+E:\git\design_patterns\Command\obj\Debug\net8.0\Command.dll
+E:\git\design_patterns\Command\obj\Debug\net8.0\refint\Command.dll
+E:\git\design_patterns\Command\obj\Debug\net8.0\Command.pdb
+E:\git\design_patterns\Command\obj\Debug\net8.0\Command.genruntimeconfig.cache
+E:\git\design_patterns\Command\obj\Debug\net8.0\ref\Command.dll

@@ -1,0 +1,14 @@
+E:\git\design_patterns\State\bin\Debug\net8.0\State.exe
+E:\git\design_patterns\State\bin\Debug\net8.0\State.deps.json
+E:\git\design_patterns\State\bin\Debug\net8.0\State.runtimeconfig.json
+E:\git\design_patterns\State\bin\Debug\net8.0\State.dll
+E:\git\design_patterns\State\bin\Debug\net8.0\State.pdb
+E:\git\design_patterns\State\obj\Debug\net8.0\State.GeneratedMSBuildEditorConfig.editorconfig
+E:\git\design_patterns\State\obj\Debug\net8.0\State.AssemblyInfoInputs.cache
+E:\git\design_patterns\State\obj\Debug\net8.0\State.AssemblyInfo.cs
+E:\git\design_patterns\State\obj\Debug\net8.0\State.csproj.CoreCompileInputs.cache
+E:\git\design_patterns\State\obj\Debug\net8.0\State.dll
+E:\git\design_patterns\State\obj\Debug\net8.0\refint\State.dll
+E:\git\design_patterns\State\obj\Debug\net8.0\State.pdb
+E:\git\design_patterns\State\obj\Debug\net8.0\State.genruntimeconfig.cache
+E:\git\design_patterns\State\obj\Debug\net8.0\ref\State.dll

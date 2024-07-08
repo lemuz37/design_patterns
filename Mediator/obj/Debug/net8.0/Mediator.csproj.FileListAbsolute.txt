@@ -1,0 +1,14 @@
+E:\git\design_patterns\Mediator\bin\Debug\net8.0\Mediator.exe
+E:\git\design_patterns\Mediator\bin\Debug\net8.0\Mediator.deps.json
+E:\git\design_patterns\Mediator\bin\Debug\net8.0\Mediator.runtimeconfig.json
+E:\git\design_patterns\Mediator\bin\Debug\net8.0\Mediator.dll
+E:\git\design_patterns\Mediator\bin\Debug\net8.0\Mediator.pdb
+E:\git\design_patterns\Mediator\obj\Debug\net8.0\Mediator.GeneratedMSBuildEditorConfig.editorconfig
+E:\git\design_patterns\Mediator\obj\Debug\net8.0\Mediator.AssemblyInfoInputs.cache
+E:\git\design_patterns\Mediator\obj\Debug\net8.0\Mediator.AssemblyInfo.cs
+E:\git\design_patterns\Mediator\obj\Debug\net8.0\Mediator.csproj.CoreCompileInputs.cache
+E:\git\design_patterns\Mediator\obj\Debug\net8.0\Mediator.dll
+E:\git\design_patterns\Mediator\obj\Debug\net8.0\refint\Mediator.dll
+E:\git\design_patterns\Mediator\obj\Debug\net8.0\Mediator.pdb
+E:\git\design_patterns\Mediator\obj\Debug\net8.0\Mediator.genruntimeconfig.cache
+E:\git\design_patterns\Mediator\obj\Debug\net8.0\ref\Mediator.dll

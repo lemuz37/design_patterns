@@ -1,0 +1,14 @@
+E:\git\design_patterns\Strategy\bin\Debug\net8.0\Strategy.exe
+E:\git\design_patterns\Strategy\bin\Debug\net8.0\Strategy.deps.json
+E:\git\design_patterns\Strategy\bin\Debug\net8.0\Strategy.runtimeconfig.json
+E:\git\design_patterns\Strategy\bin\Debug\net8.0\Strategy.dll
+E:\git\design_patterns\Strategy\bin\Debug\net8.0\Strategy.pdb
+E:\git\design_patterns\Strategy\obj\Debug\net8.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+E:\git\design_patterns\Strategy\obj\Debug\net8.0\Strategy.AssemblyInfoInputs.cache
+E:\git\design_patterns\Strategy\obj\Debug\net8.0\Strategy.AssemblyInfo.cs
+E:\git\design_patterns\Strategy\obj\Debug\net8.0\Strategy.csproj.CoreCompileInputs.cache
+E:\git\design_patterns\Strategy\obj\Debug\net8.0\Strategy.dll
+E:\git\design_patterns\Strategy\obj\Debug\net8.0\refint\Strategy.dll
+E:\git\design_patterns\Strategy\obj\Debug\net8.0\Strategy.pdb
+E:\git\design_patterns\Strategy\obj\Debug\net8.0\Strategy.genruntimeconfig.cache
+E:\git\design_patterns\Strategy\obj\Debug\net8.0\ref\Strategy.dll

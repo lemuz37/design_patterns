@@ -1,0 +1,14 @@
+E:\git\design_patterns\Adapter\bin\Debug\net8.0\Adapter.exe
+E:\git\design_patterns\Adapter\bin\Debug\net8.0\Adapter.deps.json
+E:\git\design_patterns\Adapter\bin\Debug\net8.0\Adapter.runtimeconfig.json
+E:\git\design_patterns\Adapter\bin\Debug\net8.0\Adapter.dll
+E:\git\design_patterns\Adapter\bin\Debug\net8.0\Adapter.pdb
+E:\git\design_patterns\Adapter\obj\Debug\net8.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+E:\git\design_patterns\Adapter\obj\Debug\net8.0\Adapter.AssemblyInfoInputs.cache
+E:\git\design_patterns\Adapter\obj\Debug\net8.0\Adapter.AssemblyInfo.cs
+E:\git\design_patterns\Adapter\obj\Debug\net8.0\Adapter.csproj.CoreCompileInputs.cache
+E:\git\design_patterns\Adapter\obj\Debug\net8.0\Adapter.dll
+E:\git\design_patterns\Adapter\obj\Debug\net8.0\refint\Adapter.dll
+E:\git\design_patterns\Adapter\obj\Debug\net8.0\Adapter.pdb
+E:\git\design_patterns\Adapter\obj\Debug\net8.0\Adapter.genruntimeconfig.cache
+E:\git\design_patterns\Adapter\obj\Debug\net8.0\ref\Adapter.dll

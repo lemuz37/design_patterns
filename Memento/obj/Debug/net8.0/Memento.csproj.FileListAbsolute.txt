@@ -1,0 +1,14 @@
+E:\git\design_patterns\Memento\bin\Debug\net8.0\Memento.exe
+E:\git\design_patterns\Memento\bin\Debug\net8.0\Memento.deps.json
+E:\git\design_patterns\Memento\bin\Debug\net8.0\Memento.runtimeconfig.json
+E:\git\design_patterns\Memento\bin\Debug\net8.0\Memento.dll
+E:\git\design_patterns\Memento\bin\Debug\net8.0\Memento.pdb
+E:\git\design_patterns\Memento\obj\Debug\net8.0\Memento.GeneratedMSBuildEditorConfig.editorconfig
+E:\git\design_patterns\Memento\obj\Debug\net8.0\Memento.AssemblyInfoInputs.cache
+E:\git\design_patterns\Memento\obj\Debug\net8.0\Memento.AssemblyInfo.cs
+E:\git\design_patterns\Memento\obj\Debug\net8.0\Memento.csproj.CoreCompileInputs.cache
+E:\git\design_patterns\Memento\obj\Debug\net8.0\Memento.dll
+E:\git\design_patterns\Memento\obj\Debug\net8.0\refint\Memento.dll
+E:\git\design_patterns\Memento\obj\Debug\net8.0\Memento.pdb
+E:\git\design_patterns\Memento\obj\Debug\net8.0\Memento.genruntimeconfig.cache
+E:\git\design_patterns\Memento\obj\Debug\net8.0\ref\Memento.dll

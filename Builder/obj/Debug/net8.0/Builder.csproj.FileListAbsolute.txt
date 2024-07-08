@@ -1,0 +1,14 @@
+E:\git\design_patterns\Builder\bin\Debug\net8.0\Builder.exe
+E:\git\design_patterns\Builder\bin\Debug\net8.0\Builder.deps.json
+E:\git\design_patterns\Builder\bin\Debug\net8.0\Builder.runtimeconfig.json
+E:\git\design_patterns\Builder\bin\Debug\net8.0\Builder.dll
+E:\git\design_patterns\Builder\bin\Debug\net8.0\Builder.pdb
+E:\git\design_patterns\Builder\obj\Debug\net8.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+E:\git\design_patterns\Builder\obj\Debug\net8.0\Builder.AssemblyInfoInputs.cache
+E:\git\design_patterns\Builder\obj\Debug\net8.0\Builder.AssemblyInfo.cs
+E:\git\design_patterns\Builder\obj\Debug\net8.0\Builder.csproj.CoreCompileInputs.cache
+E:\git\design_patterns\Builder\obj\Debug\net8.0\Builder.dll
+E:\git\design_patterns\Builder\obj\Debug\net8.0\refint\Builder.dll
+E:\git\design_patterns\Builder\obj\Debug\net8.0\Builder.pdb
+E:\git\design_patterns\Builder\obj\Debug\net8.0\Builder.genruntimeconfig.cache
+E:\git\design_patterns\Builder\obj\Debug\net8.0\ref\Builder.dll

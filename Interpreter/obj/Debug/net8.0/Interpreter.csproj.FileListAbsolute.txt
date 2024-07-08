@@ -1,0 +1,14 @@
+E:\git\design_patterns\Interpreter\bin\Debug\net8.0\Interpreter.exe
+E:\git\design_patterns\Interpreter\bin\Debug\net8.0\Interpreter.deps.json
+E:\git\design_patterns\Interpreter\bin\Debug\net8.0\Interpreter.runtimeconfig.json
+E:\git\design_patterns\Interpreter\bin\Debug\net8.0\Interpreter.dll
+E:\git\design_patterns\Interpreter\bin\Debug\net8.0\Interpreter.pdb
+E:\git\design_patterns\Interpreter\obj\Debug\net8.0\Interpreter.GeneratedMSBuildEditorConfig.editorconfig
+E:\git\design_patterns\Interpreter\obj\Debug\net8.0\Interpreter.AssemblyInfoInputs.cache
+E:\git\design_patterns\Interpreter\obj\Debug\net8.0\Interpreter.AssemblyInfo.cs
+E:\git\design_patterns\Interpreter\obj\Debug\net8.0\Interpreter.csproj.CoreCompileInputs.cache
+E:\git\design_patterns\Interpreter\obj\Debug\net8.0\Interpreter.dll
+E:\git\design_patterns\Interpreter\obj\Debug\net8.0\refint\Interpreter.dll
+E:\git\design_patterns\Interpreter\obj\Debug\net8.0\Interpreter.pdb
+E:\git\design_patterns\Interpreter\obj\Debug\net8.0\Interpreter.genruntimeconfig.cache
+E:\git\design_patterns\Interpreter\obj\Debug\net8.0\ref\Interpreter.dll

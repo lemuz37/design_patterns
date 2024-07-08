@@ -1,0 +1,14 @@
+E:\git\design_patterns\Visitor\bin\Debug\net8.0\Visitor.exe
+E:\git\design_patterns\Visitor\bin\Debug\net8.0\Visitor.deps.json
+E:\git\design_patterns\Visitor\bin\Debug\net8.0\Visitor.runtimeconfig.json
+E:\git\design_patterns\Visitor\bin\Debug\net8.0\Visitor.dll
+E:\git\design_patterns\Visitor\bin\Debug\net8.0\Visitor.pdb
+E:\git\design_patterns\Visitor\obj\Debug\net8.0\Visitor.GeneratedMSBuildEditorConfig.editorconfig
+E:\git\design_patterns\Visitor\obj\Debug\net8.0\Visitor.AssemblyInfoInputs.cache
+E:\git\design_patterns\Visitor\obj\Debug\net8.0\Visitor.AssemblyInfo.cs
+E:\git\design_patterns\Visitor\obj\Debug\net8.0\Visitor.csproj.CoreCompileInputs.cache
+E:\git\design_patterns\Visitor\obj\Debug\net8.0\Visitor.dll
+E:\git\design_patterns\Visitor\obj\Debug\net8.0\refint\Visitor.dll
+E:\git\design_patterns\Visitor\obj\Debug\net8.0\Visitor.pdb
+E:\git\design_patterns\Visitor\obj\Debug\net8.0\Visitor.genruntimeconfig.cache
+E:\git\design_patterns\Visitor\obj\Debug\net8.0\ref\Visitor.dll

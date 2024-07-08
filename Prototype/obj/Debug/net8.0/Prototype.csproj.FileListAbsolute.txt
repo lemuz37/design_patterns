@@ -1,0 +1,14 @@
+E:\git\design_patterns\Prototype\bin\Debug\net8.0\Prototype.exe
+E:\git\design_patterns\Prototype\bin\Debug\net8.0\Prototype.deps.json
+E:\git\design_patterns\Prototype\bin\Debug\net8.0\Prototype.runtimeconfig.json
+E:\git\design_patterns\Prototype\bin\Debug\net8.0\Prototype.dll
+E:\git\design_patterns\Prototype\bin\Debug\net8.0\Prototype.pdb
+E:\git\design_patterns\Prototype\obj\Debug\net8.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+E:\git\design_patterns\Prototype\obj\Debug\net8.0\Prototype.AssemblyInfoInputs.cache
+E:\git\design_patterns\Prototype\obj\Debug\net8.0\Prototype.AssemblyInfo.cs
+E:\git\design_patterns\Prototype\obj\Debug\net8.0\Prototype.csproj.CoreCompileInputs.cache
+E:\git\design_patterns\Prototype\obj\Debug\net8.0\Prototype.dll
+E:\git\design_patterns\Prototype\obj\Debug\net8.0\refint\Prototype.dll
+E:\git\design_patterns\Prototype\obj\Debug\net8.0\Prototype.pdb
+E:\git\design_patterns\Prototype\obj\Debug\net8.0\Prototype.genruntimeconfig.cache
+E:\git\design_patterns\Prototype\obj\Debug\net8.0\ref\Prototype.dll

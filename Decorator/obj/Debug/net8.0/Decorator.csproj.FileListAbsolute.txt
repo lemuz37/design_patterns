@@ -1,0 +1,14 @@
+E:\git\design_patterns\Decorator\bin\Debug\net8.0\Decorator.exe
+E:\git\design_patterns\Decorator\bin\Debug\net8.0\Decorator.deps.json
+E:\git\design_patterns\Decorator\bin\Debug\net8.0\Decorator.runtimeconfig.json
+E:\git\design_patterns\Decorator\bin\Debug\net8.0\Decorator.dll
+E:\git\design_patterns\Decorator\bin\Debug\net8.0\Decorator.pdb
+E:\git\design_patterns\Decorator\obj\Debug\net8.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+E:\git\design_patterns\Decorator\obj\Debug\net8.0\Decorator.AssemblyInfoInputs.cache
+E:\git\design_patterns\Decorator\obj\Debug\net8.0\Decorator.AssemblyInfo.cs
+E:\git\design_patterns\Decorator\obj\Debug\net8.0\Decorator.csproj.CoreCompileInputs.cache
+E:\git\design_patterns\Decorator\obj\Debug\net8.0\Decorator.dll
+E:\git\design_patterns\Decorator\obj\Debug\net8.0\refint\Decorator.dll
+E:\git\design_patterns\Decorator\obj\Debug\net8.0\Decorator.pdb
+E:\git\design_patterns\Decorator\obj\Debug\net8.0\Decorator.genruntimeconfig.cache
+E:\git\design_patterns\Decorator\obj\Debug\net8.0\ref\Decorator.dll

@@ -1,0 +1,14 @@
+E:\git\design_patterns\Observer\bin\Debug\net8.0\Observer.exe
+E:\git\design_patterns\Observer\bin\Debug\net8.0\Observer.deps.json
+E:\git\design_patterns\Observer\bin\Debug\net8.0\Observer.runtimeconfig.json
+E:\git\design_patterns\Observer\bin\Debug\net8.0\Observer.dll
+E:\git\design_patterns\Observer\bin\Debug\net8.0\Observer.pdb
+E:\git\design_patterns\Observer\obj\Debug\net8.0\Observer.GeneratedMSBuildEditorConfig.editorconfig
+E:\git\design_patterns\Observer\obj\Debug\net8.0\Observer.AssemblyInfoInputs.cache
+E:\git\design_patterns\Observer\obj\Debug\net8.0\Observer.AssemblyInfo.cs
+E:\git\design_patterns\Observer\obj\Debug\net8.0\Observer.csproj.CoreCompileInputs.cache
+E:\git\design_patterns\Observer\obj\Debug\net8.0\Observer.dll
+E:\git\design_patterns\Observer\obj\Debug\net8.0\refint\Observer.dll
+E:\git\design_patterns\Observer\obj\Debug\net8.0\Observer.pdb
+E:\git\design_patterns\Observer\obj\Debug\net8.0\Observer.genruntimeconfig.cache
+E:\git\design_patterns\Observer\obj\Debug\net8.0\ref\Observer.dll

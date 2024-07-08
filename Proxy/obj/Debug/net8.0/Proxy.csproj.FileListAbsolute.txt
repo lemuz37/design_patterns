@@ -1,0 +1,14 @@
+E:\git\design_patterns\Proxy\bin\Debug\net8.0\Proxy.exe
+E:\git\design_patterns\Proxy\bin\Debug\net8.0\Proxy.deps.json
+E:\git\design_patterns\Proxy\bin\Debug\net8.0\Proxy.runtimeconfig.json
+E:\git\design_patterns\Proxy\bin\Debug\net8.0\Proxy.dll
+E:\git\design_patterns\Proxy\bin\Debug\net8.0\Proxy.pdb
+E:\git\design_patterns\Proxy\obj\Debug\net8.0\Proxy.GeneratedMSBuildEditorConfig.editorconfig
+E:\git\design_patterns\Proxy\obj\Debug\net8.0\Proxy.AssemblyInfoInputs.cache
+E:\git\design_patterns\Proxy\obj\Debug\net8.0\Proxy.AssemblyInfo.cs
+E:\git\design_patterns\Proxy\obj\Debug\net8.0\Proxy.csproj.CoreCompileInputs.cache
+E:\git\design_patterns\Proxy\obj\Debug\net8.0\Proxy.dll
+E:\git\design_patterns\Proxy\obj\Debug\net8.0\refint\Proxy.dll
+E:\git\design_patterns\Proxy\obj\Debug\net8.0\Proxy.pdb
+E:\git\design_patterns\Proxy\obj\Debug\net8.0\Proxy.genruntimeconfig.cache
+E:\git\design_patterns\Proxy\obj\Debug\net8.0\ref\Proxy.dll

@@ -1,0 +1,14 @@
+E:\git\design_patterns\Bridge\bin\Debug\net8.0\Bridge.exe
+E:\git\design_patterns\Bridge\bin\Debug\net8.0\Bridge.deps.json
+E:\git\design_patterns\Bridge\bin\Debug\net8.0\Bridge.runtimeconfig.json
+E:\git\design_patterns\Bridge\bin\Debug\net8.0\Bridge.dll
+E:\git\design_patterns\Bridge\bin\Debug\net8.0\Bridge.pdb
+E:\git\design_patterns\Bridge\obj\Debug\net8.0\Bridge.GeneratedMSBuildEditorConfig.editorconfig
+E:\git\design_patterns\Bridge\obj\Debug\net8.0\Bridge.AssemblyInfoInputs.cache
+E:\git\design_patterns\Bridge\obj\Debug\net8.0\Bridge.AssemblyInfo.cs
+E:\git\design_patterns\Bridge\obj\Debug\net8.0\Bridge.csproj.CoreCompileInputs.cache
+E:\git\design_patterns\Bridge\obj\Debug\net8.0\Bridge.dll
+E:\git\design_patterns\Bridge\obj\Debug\net8.0\refint\Bridge.dll
+E:\git\design_patterns\Bridge\obj\Debug\net8.0\Bridge.pdb
+E:\git\design_patterns\Bridge\obj\Debug\net8.0\Bridge.genruntimeconfig.cache
+E:\git\design_patterns\Bridge\obj\Debug\net8.0\ref\Bridge.dll

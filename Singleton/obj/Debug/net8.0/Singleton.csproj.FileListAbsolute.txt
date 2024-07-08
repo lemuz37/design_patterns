@@ -1,0 +1,14 @@
+E:\git\design_patterns\Singleton\bin\Debug\net8.0\Singleton.exe
+E:\git\design_patterns\Singleton\bin\Debug\net8.0\Singleton.deps.json
+E:\git\design_patterns\Singleton\bin\Debug\net8.0\Singleton.runtimeconfig.json
+E:\git\design_patterns\Singleton\bin\Debug\net8.0\Singleton.dll
+E:\git\design_patterns\Singleton\bin\Debug\net8.0\Singleton.pdb
+E:\git\design_patterns\Singleton\obj\Debug\net8.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+E:\git\design_patterns\Singleton\obj\Debug\net8.0\Singleton.AssemblyInfoInputs.cache
+E:\git\design_patterns\Singleton\obj\Debug\net8.0\Singleton.AssemblyInfo.cs
+E:\git\design_patterns\Singleton\obj\Debug\net8.0\Singleton.csproj.CoreCompileInputs.cache
+E:\git\design_patterns\Singleton\obj\Debug\net8.0\Singleton.dll
+E:\git\design_patterns\Singleton\obj\Debug\net8.0\refint\Singleton.dll
+E:\git\design_patterns\Singleton\obj\Debug\net8.0\Singleton.pdb
+E:\git\design_patterns\Singleton\obj\Debug\net8.0\Singleton.genruntimeconfig.cache
+E:\git\design_patterns\Singleton\obj\Debug\net8.0\ref\Singleton.dll
